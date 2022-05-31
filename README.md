@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Emran Salah
+- 👋 Hi, I’m Emran Salah.
 - 👀 I’m interested in automation.
-- 🌱 I’m currently learning front-end web development
+- 🌱 I’m currently learning front-end web development.
 - 💞️ I’m looking to collaborate on - ...
 - 📫 How to reach me ...
 
