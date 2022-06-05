@@ -2,7 +2,8 @@
 - 👀 I’m interested in automation.
 - 🌱 I’m currently learning front-end web development.
 - 💞️ I’m looking to collaborate on - ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+-      twitter- @YalnizKurt_es
 
 <!---
 The-msg/The-msg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
