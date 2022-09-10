@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Emran Salah.
-- 👀 I’m interested in automation.
-- 🌱 I’m currently learning front-end web development.
-- 💞️ I’m looking to collaborate on - ...
-- 📫 How to reach me 
--      twitter- @YalnizKurt_es
+- 🌱 I’m currently learning web-dev through the Odin Project. 
 
 <!---
 The-msg/The-msg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
